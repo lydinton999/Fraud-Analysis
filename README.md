@@ -3,7 +3,8 @@ The Fraud Analysis Dashboard for Nigeria reveals critical insights into fraudule
 
 ### Fraud Analysis Document:
 
-[Excel file for analysis](https://docs.google.com/spreadsheets/d/1z4XmKZbVhsnccqebmdmL0EmuuoKZ1Kbd/edit?usp=sharing&ouid=111293989867994145809&rtpof=true&sd=true/)
+[Excel file for analysis](https://docs.google.com/spreadsheets/d/1z4XmKZbVhsnccqebmdmL0EmuuoKZ1Kbd/edit?usp=sharing&ouid=111293989867994145809&rtpof=true&sd=true/) 
+
 ![Fraud Analysis Nigeria](https://github.com/user-attachments/assets/4f2aedce-8a70-4805-b435-4cd133db29ec)
 
 
